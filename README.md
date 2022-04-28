@@ -1,14 +1,21 @@
 ## Hi there, I'm Daffa! 👋
+<img alt="profile-views" src="https://komarev.com/ghpvc/?username=MuhammadDaffaTFA&style=for-the-badge" /> 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MuhammadDaffaTFA&show_icons=true&theme=tokyonight" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDaffaTFA&layout=compact&show_icons=true&theme=tokyonight" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadDaffaTFA&layout=compact&show_icons=true&theme=tokyonight" />
 
-<img align="left" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" /> 
-<img align="left" alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+<img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-## 📚 About Me ?
+## 📚 About me ?
 - 👋 I’m @MuhammadDaffaTFA
 - 👀 I’m interested in Android Application
 - 🌱 I’m currently learning PHP, C++
 - 💞️ I’m looking to collaborate on Dinerzon Network
 - 📫 Ask me about PHP, C++
+
+## Connect with me :
+- Youtube: https://youtube.com/hasiyfgaming
+- Discord: https://discord.gg/qjKdhYY8v4
+- Instagram: https://instagram.com/daffannor
