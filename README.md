@@ -16,6 +16,5 @@
 - 📫 Ask me about PHP, C++
 
 ## Connect with me :
-- Youtube: https://youtube.com/hasiyfgaming
-- Discord: https://discord.gg/qjKdhYY8v4
-- Instagram: https://instagram.com/daffannor
+- Youtube: https://www.youtube.com/channel/UCwfz8UO1ryDXoy10BkpiYFg
+- Instagram: https://instagram.com/mdafftfa
